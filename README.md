@@ -33,7 +33,7 @@ This is my embedded image from my repo
 
 ## link to my published page 
  
-   - [https://chitralekhach.github.io/Installing Tools And Publishing Content](https://chitralekhach.github.io/Installing-Tools-And-Publishing-Content "XYZ")
+   - [https://chitralekhach.github.io/Installing Tools And Publishing Content](https://chitralekhach.github.io "XYZ")
 
 ##  About
 
