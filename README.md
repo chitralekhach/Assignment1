@@ -29,11 +29,11 @@ This is a referenced image:
 
 This is my embedded image from my repo
 
-![Hosted image](https://chitralekhach.github.io/week1/bunny.jpg"bunny")
+![Hosted image](https://chitralekhach.github.io/week1/bunny.jpg "bunny")
 
 ## link to my published page 
  
-   - [https://chitralekhach.github.io/Installing Tools And Publishing Content](https://chitralekhach.github.io/ "Installing-Tools-And-Publishing-Content
+   - [https://chitralekhach.github.io/Installing Tools And Publishing Content](https://chitralekhach.github.io/Installing-Tools-And-Publishing-Content "XYZ")
 
 ##  About
 
