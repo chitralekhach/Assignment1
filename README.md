@@ -36,7 +36,7 @@ Below is my embedded image from my repo:
 
 ### link to my published page 
  
-   - [Installing Tools And Publishing Content](https://chitralekhach.github.io/ "XYZ")
+   - [Installing Tools And Publishing Content](https://chitralekhach.github.io/Assignment1/ "XYZ")
 
 ##  About
 
