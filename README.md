@@ -15,13 +15,14 @@ This is week-1 Assignment-1 working  with Markdown, a super-simple markup langua
 -  Markdown Commands in this assignment 
 
 ### Markdown-related link
+
   Below is the link to the source of this assignement
   
   - [Source](https://profcase.github.io/working-with-markdown/ "Working With Markdown Webpage")
    
 
 
-## Custom Image
+### Custom Image
 
 This is a referenced image:
 
@@ -33,7 +34,7 @@ This is my embedded image from my repo:
 ![Hosted image](https://chitralekhach.github.io/bunny.jpg "bunny")
 
 
-## link to my published page 
+### link to my published page 
  
    - [Installing Tools And Publishing Content](https://chitralekhach.github.io/ "XYZ")
 
