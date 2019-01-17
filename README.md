@@ -14,7 +14,7 @@ This is week-1 Assignment-1 working  with Markdown, a super-simple markup langua
 -  Installing-Tools-And-Publishing-Content
 -  Markdown Commands in this assignment 
 
- ### Markdown-related link
+### Markdown-related link
   Below is the link to the source of this assignement
   
   - [Source](https://profcase.github.io/working-with-markdown/ "Working With Markdown Webpage")
