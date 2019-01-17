@@ -27,9 +27,11 @@ This is a referenced image:
 
 ![Hosted image](https://s.abcnews.com/images/Business/GTY_rabbit_sr_140508_16x9_992.jpg "imge")
 
-This is my embedded image from my repo
+This is my embedded image from my repo:
+ - [Link to my image](https://chitralekhach.github.io/bunny.jpg "bunny")
 
-![Hosted image](https://chitralekhach.github.io/week1/bunny.jpg "bunny")
+![Hosted image](https://chitralekhach.github.io/bunny.jpg "bunny")
+
 
 ## link to my published page 
  
